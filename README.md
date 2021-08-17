@@ -28,4 +28,5 @@ adding a movie also
 the image is a link, that will upload in the display (the code is written but didn't have the time to test)
 
 
+To finish this project, i need to link the search page correctly after the login is done correctly (and change the homepage name to searchOutput which we will see the galery) 
 
