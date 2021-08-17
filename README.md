@@ -4,7 +4,7 @@ I didn't manage to finish due to electricity (my laptop turned off and had to mo
 3 hours are enough time to finish all task with a acceptable presentation. (electricity problem didn't allow to do that sorry !)
 
 I could have done this in php
-
+the database used is Access, 2 tables (of course it can be upgraded better than this)
 
 to launch the web site is from the login page, you don't have an account you can create one. (it's working)
 
