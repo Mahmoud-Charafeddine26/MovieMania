@@ -30,3 +30,5 @@ the image is a link, that will upload in the display (the code is written but di
 
 To finish this project, i need to link the search page correctly after the login is done correctly (and change the homepage name to searchOutput which we will see the galery) 
 
+f9 is the image that i tested
+
