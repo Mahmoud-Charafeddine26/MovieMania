@@ -2,9 +2,11 @@
 I uploaded all the files and the database of the project
 I didn't manage to finish due to electricity (my laptop turned off and had to move the project to another pc and connect to 4G to deploy to github)
 3 hours are enough time to finish all task with a acceptable presentation. (electricity problem didn't allow to do that sorry !)
+The repository have duplicate files jsp (i manage to put in the folder in the right order as in my project)
 
 
-to launch the web site is from the login page, you don't have an account you can create one.
+
+to launch the web site is from the login page, you don't have an account you can create one. (it's working)
 
 
 There is some file (Jsp) are the same, in reality the difference is due to the path, 1 is for the Admin and 1 is for User (client)
