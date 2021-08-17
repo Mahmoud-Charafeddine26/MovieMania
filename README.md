@@ -4,6 +4,9 @@ I didn't manage to finish due to electricity (my laptop turned off and had to mo
 3 hours are enough time to finish all task with a acceptable presentation. (electricity problem didn't allow to do that sorry !)
 
 
+to launch the web site is from the login page, you don't have an account you can create one.
+
+
 There is some file (Jsp) are the same, in reality the difference is due to the path, 1 is for the Admin and 1 is for User (client)
 
 the client have the admin field hidden, cause only the admin can define who is admin
